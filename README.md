@@ -1,6 +1,6 @@
-# PyTorch
+# Awesome PyTorch
 
-### Github
+## Github
 
 
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer): Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, https://arxiv.org/abs/1612.03928
