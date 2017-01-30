@@ -3,7 +3,7 @@
 ## Paper Implementations
 
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer): Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, https://arxiv.org/abs/1612.03928
-- [Wasserstein GAN](https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3): Wasserstein GAN, https://arxiv.org/abs/1701.07875
+- [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN): Wasserstein GAN, https://arxiv.org/abs/1701.07875
 
 ## Tutorials & Examples
 
