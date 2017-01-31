@@ -12,6 +12,7 @@
   - [Generating Names with a Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/char-rnn-generation/char-rnn-generation.ipynb)
   - WIP Translation with Sequence to Sequence Networks
   - TODO Intent parsing with Sequence to Sequence Networks and Attention
+- [PyTorch Basics](https://github.com/rasbt/deep-learning-book/blob/master/code/appendix_g_pytorch-basics.ipynb): Appendix of the book "Introduction to ANN and DL: A Practical Guide with Applications in Python" by Sebastian Raschka
 - [Pytorch Official Examples](https://github.com/pytorch/examples): A repository showcasing examples of using pytorch
   - MNIST Convnets
   - Word level Language Modeling using LSTM RNNs
