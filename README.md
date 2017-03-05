@@ -13,6 +13,7 @@
 - [PyTorch Mini Tutorials](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials): Minimal tutorials for PyTorch adapted from Alec Radford's Theano tutorials.
 - [Pytorch Official Examples](https://github.com/pytorch/examples): A repository showcasing examples of using pytorch
 - [Pytorch Official Tutorials](https://github.com/pytorch/tutorials): PyTorch Tutorials
+- [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne): A simple t-SNE model implemented in pytorch
 
 ## Blog & Article
 
