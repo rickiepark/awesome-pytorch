@@ -18,3 +18,7 @@
 ## Blog & Article
 
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+
+## Discussion
+
+- [PyTorch vs TensorFlow](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/): A reddit post about PyTorch and TensorFlow
