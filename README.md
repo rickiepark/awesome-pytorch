@@ -9,6 +9,7 @@
 
 ## Tutorials & Examples
 
+- [Deep Learning for NLP with PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch): An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing
 - [Practical PyTorch](https://github.com/spro/practical-pytorch): Practical PyTorch tutorials, focused on using RNNs for NLP
 - [Pytorch Examples](https://github.com/jcjohnson/pytorch-examples): This repository introduces the fundamental concepts of PyTorch through self-contained examples
 - [PyTorch Mini Tutorials](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials): Minimal tutorials for PyTorch adapted from Alec Radford's Theano tutorials.
