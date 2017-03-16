@@ -16,6 +16,7 @@
 - [Pytorch Official Examples](https://github.com/pytorch/examples): A repository showcasing examples of using pytorch
 - [Pytorch Official Tutorials](https://github.com/pytorch/tutorials): PyTorch Tutorials
 - [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorials. Most of the models were implemented with less than 30 lines of code.
+- [PyTorch Tutorials](https://chsasank.github.io/pytorch-tutorials/index.html): PyTorch tutorials better rendered with readthedocs style
 - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne): A simple t-SNE model implemented in pytorch
 
 ## Blog & Article
