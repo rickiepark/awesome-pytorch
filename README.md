@@ -4,6 +4,7 @@
 
 - [A PyTorch Implementation of DenseNet](https://github.com/bamos/densenet.pytorch): Densely Connected Convolutional Networks, [1608.06993](https://arxiv.org/abs/1608.06993)
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer): Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, [1612.03928](https://arxiv.org/abs/1612.03928)
+- [TreeLSTM](https://gist.github.com/wolet/1b49c03968b2c83897a4a15c78980b18): Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks, [1503.00075](https://arxiv.org/abs/1503.00075)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN): Wasserstein GAN, [1701.07875](https://arxiv.org/abs/1701.07875)
 - [YOLOv2 in PyTorch](https://github.com/longcw/yolo2-pytorch): PyTorch implementation of YOLOv2, [1612.08242](https://arxiv.org/abs/1612.08242)
 
