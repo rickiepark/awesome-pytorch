@@ -6,6 +6,7 @@
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer): Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, [1612.03928](https://arxiv.org/abs/1612.03928)
 - [DiscoGAN(1)](https://github.com/SKTBrain/DiscoGAN), [DiscoGAN(2)](https://github.com/carpedm20/DiscoGAN-pytorch): Learning to Discover Cross-Domain Relations with Generative Adversarial Networks, [1703.05192](https://arxiv.org/abs/1703.05192)
 - [Evolution Strategies](https://github.com/atgambardella/pytorch-es): Evolution Strategies as a Scalable Alternative to Reinforcement Learning ,[1703.03864](https://arxiv.org/abs/1703.03864)
+- [PyScatWave](https://github.com/edouardoyallon/pyscatwave): Scaling the Scattering Transform, [1703.08961](https://arxiv.org/abs/1703.08961)
 - [Recurrent Variational Autoencoder](https://github.com/analvikingur/pytorch_RVAE): Recurrent Variational Autoencoder that generates sequential data implemented in pytorch, [1511.06349](https://arxiv.org/abs/1511.06349), [1508.06615](https://arxiv.org/abs/1508.06615)
 - [TreeLSTM](https://gist.github.com/wolet/1b49c03968b2c83897a4a15c78980b18): Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks, [1503.00075](https://arxiv.org/abs/1503.00075)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN): Wasserstein GAN, [1701.07875](https://arxiv.org/abs/1701.07875)
