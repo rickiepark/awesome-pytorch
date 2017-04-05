@@ -4,6 +4,8 @@
 
 - [A PyTorch Implementation of DenseNet](https://github.com/bamos/densenet.pytorch): Densely Connected Convolutional Networks, [1608.06993](https://arxiv.org/abs/1608.06993)
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer): Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, [1612.03928](https://arxiv.org/abs/1612.03928)
+- [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch): BEGAN: Boundary Equilibrium Generative Adversarial Networks, [1703.10717](https://arxiv.org/abs/1703.10717)
+- [Deformable Convolution](https://github.com/oeway/pytorch-deform-conv): Deformable Convolution, [1703.06211](http://arxiv.org/abs/1703.06211)
 - [DiscoGAN(1)](https://github.com/SKTBrain/DiscoGAN), [DiscoGAN(2)](https://github.com/carpedm20/DiscoGAN-pytorch): Learning to Discover Cross-Domain Relations with Generative Adversarial Networks, [1703.05192](https://arxiv.org/abs/1703.05192)
 - [Evolution Strategies](https://github.com/atgambardella/pytorch-es): Evolution Strategies as a Scalable Alternative to Reinforcement Learning ,[1703.03864](https://arxiv.org/abs/1703.03864)
 - [PyScatWave](https://github.com/edouardoyallon/pyscatwave): Scaling the Scattering Transform, [1703.08961](https://arxiv.org/abs/1703.08961)
