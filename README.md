@@ -13,7 +13,9 @@
 - [PyScatWave](https://github.com/edouardoyallon/pyscatwave): Scaling the Scattering Transform, [1703.08961](https://arxiv.org/abs/1703.08961)
 - [Recurrent Variational Autoencoder](https://github.com/analvikingur/pytorch_RVAE): Recurrent Variational Autoencoder that generates sequential data implemented in pytorch, [1511.06349](https://arxiv.org/abs/1511.06349), [1508.06615](https://arxiv.org/abs/1508.06615)
 - [TreeLSTM](https://gist.github.com/wolet/1b49c03968b2c83897a4a15c78980b18): Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks, [1503.00075](https://arxiv.org/abs/1503.00075)
+- [VAE with a VampPrior](https://github.com/jmtomczak/vae_vampprior): Variational Mixture of Posteriors, [1705.07120](https://arxiv.org/abs/1705.07120)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN): Wasserstein GAN, [1701.07875](https://arxiv.org/abs/1701.07875)
+- [Weight Normalized GAN](https://github.com/stormraiser/GAN-weight-norm): On the Effects of Batch and Weight Normalization in Generative Adversarial Networks, [1704.03971](https://arxiv.org/abs/1704.03971)
 - [YOLOv2 in PyTorch](https://github.com/longcw/yolo2-pytorch): PyTorch implementation of YOLOv2, [1612.08242](https://arxiv.org/abs/1612.08242)
 
 ## Tutorials & Examples
