@@ -8,6 +8,7 @@
 - [CycleGAN and pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): CycleGAN and pix2pix in PyTorch, [1703.10593](https://arxiv.org/abs/1703.10593), [1611.07004](https://arxiv.org/abs/1611.07004)
 - [Deformable Convolution](https://github.com/oeway/pytorch-deform-conv): Deformable Convolution, [1703.06211](http://arxiv.org/abs/1703.06211)
 - [DiscoGAN(1)](https://github.com/SKTBrain/DiscoGAN), [DiscoGAN(2)](https://github.com/carpedm20/DiscoGAN-pytorch): Learning to Discover Cross-Domain Relations with Generative Adversarial Networks, [1703.05192](https://arxiv.org/abs/1703.05192)
+- [dragan-pytorch](https://github.com/jfsantos/dragan-pytorch), How to Train Your DRAGAN, [1705.07215](https://arxiv.org/abs/1705.07215)
 - [Evolution Strategies](https://github.com/atgambardella/pytorch-es): Evolution Strategies as a Scalable Alternative to Reinforcement Learning ,[1703.03864](https://arxiv.org/abs/1703.03864)
 - [Grammar Variational Autoencoder](https://github.com/episodeyang/grammar_variational_autoencoder): Grammar Variational Autoencoder, [1703.01925](https://arxiv.org/abs/1703.01925)
 - [PyScatWave](https://github.com/edouardoyallon/pyscatwave): Scaling the Scattering Transform, [1703.08961](https://arxiv.org/abs/1703.08961)
