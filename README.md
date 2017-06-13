@@ -37,6 +37,7 @@
 
 ## Blog & Article
 
+- [A Tour of PyTorch Internals](https://gist.github.com/killeent/4675635b40b61a45cac2f95a285ce3c0)
 - [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 - [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/)
