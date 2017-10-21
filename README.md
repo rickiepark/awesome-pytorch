@@ -14,9 +14,12 @@
 - [Evolution Strategies](https://github.com/atgambardella/pytorch-es): Evolution Strategies as a Scalable Alternative to Reinforcement Learning ,[1703.03864](https://arxiv.org/abs/1703.03864)
 - [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam): Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization, [1610.02391](https://arxiv.org/abs/1610.02391)
 - [Grammar Variational Autoencoder](https://github.com/episodeyang/grammar_variational_autoencoder): Grammar Variational Autoencoder, [1703.01925](https://arxiv.org/abs/1703.01925)
+- [pytorch-mobilenet](https://github.com/marvis/pytorch-mobilenet): PyTorch MobileNet Implementation of "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications", [1704.04861](https://arxiv.org/abs/1704.04861)
 - [neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch): Neural Combinatorial Optimization with Reinforcement Learning, [1611.09940](https://arxiv.org/abs/1611.09940)
 - [Neural Message Passing](https://github.com/priba/nmp_qc): Neural Message Passing for Quantum Chemistry, [1704.01212](https://arxiv.org/abs/1704.01212)
 - [ODIN: Out-of-Distribution Detector for Neural Networks](https://github.com/shiyuliang/odin-pytorch): Principled Detection of Out-of-Distribution Examples in Neural Networks, [1706.02690](https://arxiv.org/abs/1706.02690)
+- [pytorch-fcn](https://github.com/wkentaro/pytorch-fcn): PyTorch Implementation of Fully Convolutional Networks, [1605.06211](https://arxiv.org/abs/1605.06211)
+- [PyTorch-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer): Multi-style Generative Network for Real-time Transfer, [1703.06953](https://arxiv.org/pdf/1703.06953.pdf) and Image Style Transfer Using Convolutional Neural Networks, [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 - [PyScatWave](https://github.com/edouardoyallon/pyscatwave): Scaling the Scattering Transform, [1703.08961](https://arxiv.org/abs/1703.08961)
 - [pytorch-pruning](https://github.com/jacobgil/pytorch-pruning): Pruning Convolutional Neural Networks for Resource Efficient Inference, [1611.06440](https://arxiv.org/abs/1611.06440)
 - [relational-networks](https://github.com/kimhc6028/relational-networks): A simple neural network module for relational reasoning, (1706.01427)[https://arxiv.org/abs/1706.01427]
@@ -36,6 +39,7 @@
 - [PyTorch Mini Tutorials](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials): Minimal tutorials for PyTorch adapted from Alec Radford's Theano tutorials.
 - [Pytorch Official Examples](https://github.com/pytorch/examples): A repository showcasing examples of using pytorch
 - [Pytorch Official Tutorials](https://github.com/pytorch/tutorials): PyTorch Tutorials
+- [pytorch-playground](https://github.com/aaron-xichen/pytorch-playground): Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)
 - [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorials. Most of the models were implemented with less than 30 lines of code.
 - [PyTorch Tutorials](https://chsasank.github.io/pytorch-tutorials/index.html): PyTorch tutorials better rendered with readthedocs style
 - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne): A simple t-SNE model implemented in pytorch
