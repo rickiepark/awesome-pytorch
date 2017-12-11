@@ -43,6 +43,7 @@
 - [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorials. Most of the models were implemented with less than 30 lines of code.
 - [PyTorch Tutorials](https://chsasank.github.io/pytorch-tutorials/index.html): PyTorch tutorials better rendered with readthedocs style
 - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne): A simple t-SNE model implemented in pytorch
+- [Welcome tutorials](https://github.com/mila-udem/welcome_tutorials/tree/master/pytorch): MILA's pytorch tutorials
 
 ## Blog & Article
 
