@@ -32,7 +32,7 @@
 - [YOLOv2 in PyTorch](https://github.com/longcw/yolo2-pytorch): PyTorch implementation of YOLOv2, [1612.08242](https://arxiv.org/abs/1612.08242)
 
 ## Tutorials & Examples
-
+- [Pytorch-Project-Template](https://github.com/moemen95/PyTorch-Project-Template): A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning. 
 - [Deep Learning for NLP with PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch): An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing
 - [Practical PyTorch](https://github.com/spro/practical-pytorch): Practical PyTorch tutorials, focused on using RNNs for NLP
 - [Pytorch Examples](https://github.com/jcjohnson/pytorch-examples): This repository introduces the fundamental concepts of PyTorch through self-contained examples
