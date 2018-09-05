@@ -22,7 +22,7 @@
 - [PyTorch-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer): Multi-style Generative Network for Real-time Transfer, [1703.06953](https://arxiv.org/pdf/1703.06953.pdf) and Image Style Transfer Using Convolutional Neural Networks, [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 - [PyScatWave](https://github.com/edouardoyallon/pyscatwave): Scaling the Scattering Transform, [1703.08961](https://arxiv.org/abs/1703.08961)
 - [pytorch-pruning](https://github.com/jacobgil/pytorch-pruning): Pruning Convolutional Neural Networks for Resource Efficient Inference, [1611.06440](https://arxiv.org/abs/1611.06440)
-- [relational-networks](https://github.com/kimhc6028/relational-networks): A simple neural network module for relational reasoning, (1706.01427)[https://arxiv.org/abs/1706.01427]
+- [relational-networks](https://github.com/kimhc6028/relational-networks): A simple neural network module for relational reasoning, [1706.01427](https://arxiv.org/abs/1706.01427)
 - [Recurrent Variational Autoencoder](https://github.com/analvikingur/pytorch_RVAE): Recurrent Variational Autoencoder that generates sequential data implemented in pytorch, [1511.06349](https://arxiv.org/abs/1511.06349), [1508.06615](https://arxiv.org/abs/1508.06615)
 - [TreeLSTM](https://gist.github.com/wolet/1b49c03968b2c83897a4a15c78980b18): Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks, [1503.00075](https://arxiv.org/abs/1503.00075)
 - [VAE with a VampPrior](https://github.com/jmtomczak/vae_vampprior): Variational Mixture of Posteriors, [1705.07120](https://arxiv.org/abs/1705.07120)
