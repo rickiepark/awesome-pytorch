@@ -46,6 +46,13 @@
 - [Welcome tutorials](https://github.com/mila-udem/welcome_tutorials/tree/master/pytorch): MILA's pytorch tutorials
 - [image-classification-mobile](https://github.com/osmr/imgclsmob): Examples of reproducible training various classification models for ImageNet-1K
 
+
+## Useful PyTorch Tools
+
+- [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
+- [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
+- [MMdnn](https://github.com/Microsoft/MMdnn)
+
 ## Blog & Article
 
 - [A Tour of PyTorch Internals](https://gist.github.com/killeent/4675635b40b61a45cac2f95a285ce3c0)
