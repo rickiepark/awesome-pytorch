@@ -44,6 +44,7 @@
 - [PyTorch Tutorials](https://chsasank.github.io/pytorch-tutorials/index.html): PyTorch tutorials better rendered with readthedocs style
 - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne): A simple t-SNE model implemented in pytorch
 - [Welcome tutorials](https://github.com/mila-udem/welcome_tutorials/tree/master/pytorch): MILA's pytorch tutorials
+- [image-classification-mobile](https://github.com/osmr/imgclsmob): Examples of reproducible training various classification models for ImageNet-1K
 
 ## Blog & Article
 
