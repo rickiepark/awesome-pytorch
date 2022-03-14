@@ -45,13 +45,14 @@
 - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne): A simple t-SNE model implemented in pytorch
 - [Welcome tutorials](https://github.com/mila-udem/welcome_tutorials/tree/master/pytorch): MILA's pytorch tutorials
 - [image-classification-mobile](https://github.com/osmr/imgclsmob): Examples of reproducible training various classification models for ImageNet-1K
-
+- [Federated Learning with PyTorch](https://flower.dev/docs/quickstart_pytorch.html): Tutorial about PyTorch and Flower creating a federated workload
 
 ## Useful PyTorch Tools
 
 - [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
 - [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
 - [MMdnn](https://github.com/Microsoft/MMdnn)
+- [Flower: A Friendly Federated Learning Framework](https://flower.dev/)
 
 ## Blog & Article
 
@@ -60,6 +61,7 @@
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 - [Matrix Factorization in PyTorchn](http://blog.ethanrosenthal.com/2017/06/20/matrix-factorization-in-pytorch/)
 - [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/)
+- [PyTorch: From Centralized to Federated](https://flower.dev/blog/2021-02-24-pytorch-from-centralized-to-federated/)
 
 ## Books
 
