@@ -69,6 +69,7 @@
 - [Serverless Machine Learning in Action with PyTorch and AWS](https://www.manning.com/books/serverless-machine-learning-in-action): Serverless Machine Learning in Action is a guide to bringing your experimental PyTorch machine learning code to production using serverless capabilities from major cloud providers like AWS, Azure, or GCP.
 - [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/): Shows you how to set up PyTorch on a cloud-based environment, then walks you through the creation of neural architectures that facilitate operations on images, sound, text,and more through deep dives into each element.
 - [Deep Learning with PyTorch](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch): Build neural network models in text, vision and advanced analytics using PyTorch.
+- [Learn Generative AI with PyTorch](https://www.manning.com/books/learn-generative-ai-with-pytorch): Create your own generative AI models for text, images, music, and more.
 
 ## Discussion
 
